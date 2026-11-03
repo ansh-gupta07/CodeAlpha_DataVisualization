@@ -22,6 +22,3 @@ pip install -r requirements.txt
 python visualize.py                 # reads books_dataset.csv, writes charts/
 ```
 Use the full 1,000-book CSV (scraped with `--details`) to get the category charts.
-
-## Key findings
-Printed by the script at the end of each run. Add the final numbers from your full dataset here.
